@@ -1,9 +1,4 @@
-## Hi there 👋
-
-## <!--
-## **baksho/baksho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi there, I am Baksho.
+## Hi there, I am Baksho 👋
 
 - 🌱 I’m currently learning Data Science
 - 🔭 I’m currently working on ...
