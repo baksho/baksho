@@ -66,12 +66,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://datascience-pro-9.preview.emergentagent.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://datascience-pro-9.preview.emergentagent.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=internetexplorer&logoColor=white" />
-  </a>
-  <a href="https://datascience-pro-9.preview.emergentagent.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
