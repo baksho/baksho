@@ -12,6 +12,14 @@
   </a>
 </p>
 
+<!-- Typing SVG header -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=26&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=620&height=60&lines=Hi+there%2C+I'm+Baksho+%F0%9F%91%8B;Machine+Learning+Engineer;Data+Scientist+%40+TU+Braunschweig;Python+%7C+Julia+Enthusiast;Let's+build+something+cool!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=26&pause=1200&color=000000&background=00000000&center=true&vCenter=true&width=620&height=60&lines=Hi+there%2C+I'm+Baksho+%F0%9F%91%8B;Machine+Learning+Engineer;Data+Scientist+%40+TU+Braunschweig;Python+%7C+Julia+Enthusiast;Let's+build+something+cool!" alt="Typing SVG" />
+  </picture>
+</p>
+
 <!-- Capsule render banner 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" />
