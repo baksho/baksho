@@ -12,37 +12,40 @@
 
 ---
 
-<!-- Neofetch-style info block -->
-```
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   baksho@earth:~$ whoami                             │
-│                                                      │
-│   Name    ›  Suvinava Basak (Baksho)                 │
-│   Role    ›  Data Scientist / ML Engineer            │
-│   Study   ›  M.Sc. @ TU Braunschweig, Germany 🇩🇪    │
-│   BG      ›  Computer Engineer → MBA → ML            │
-│   XP      ›  6+ years across industries & domains   │
-│   OS      ›  Ubuntu / Windows                        │
-│   Shell   ›  zsh + oh-my-zsh                         │
-│   Editor  ›  VS Code / Jupyter                       │
-│                                                      │
-│   Focus   ›  CNN · RNN · LSTM · Ensemble Learning    │
-│   Skills  ›  Regression · Classification             │
-│              Statistics · Continuous Optimization    │
-│   Tools   ›  Python · Julia · NumPy · PyTorch        │
-│              scikit-learn · TensorFlow · Manim       │
-│                                                      │
-│   Collab  ›  ML · HPC · Mathematical Modelling       │
-│              Numerical Simulations · Open Source     │
-│                                                      │
-│   ⚡ Fun  ›  3Blue1Brown Manim fan. Because math      │
-│              should look as beautiful as it is.      │
-│                                                      │
-│   Pronouns ›  He / Him                               │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
+<!-- Neofetch-style block: ASCII art left, info panel right -->
+<pre>
+  ██████╗  █████╗ ██╗  ██╗███████╗██╗  ██╗ ██████╗      baksho@earth
+  ██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██║  ██║██╔═══██╗     ────────────────────────────────────────────────
+  ██████╔╝███████║█████╔╝ ███████╗███████║██║   ██║     OS  . . . . . . . . . .  Ubuntu / Windows 11
+  ██╔══██╗██╔══██║██╔═██╗ ╚════██║██╔══██║██║   ██║     Host  . . . . . . . . .  TU Braunschweig, DE 🇩🇪
+  ██████╔╝██║  ██║██║  ██╗███████║██║  ██║╚██████╔╝     Uptime  . . . . . . . .  6+ years of experience
+  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝     Shell . . . . . . . . .  zsh + oh-my-zsh
+                                                         Editor  . . . . . . . .  VS Code / Jupyter Lab
+           S U V I N A V A   B A S A K
+                                                         Background  . . . . . .  Computer Eng → MBA → ML
+                                                         Role  . . . . . . . . .  Data Scientist / ML Eng
+  ██╗  ██╗███████╗██╗     ██╗      ██████╗              Pronouns  . . . . . . .  He / Him
+  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+  ███████║█████╗  ██║     ██║     ██║   ██║             Languages.ML  . . . . .  Python, Julia
+  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║             Languages.Frameworks  .  PyTorch, TensorFlow
+  ██║  ██║███████╗███████╗███████╗╚██████╔╝             Languages.Tools  . . .   NumPy, Pandas, Manim
+  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝             Languages.Writing . . .  LaTeX, Markdown
+                                                         Languages.Real  . . . .  English, German (learning)
+
+                                                         ML.Learning  . . . . .  CNN, RNN, LSTM
+                                                         ML.Expertise  . . . . . Regression, Classification
+                                                         ML.Domain  . . . . . .  Statistics, Optimization
+                                                         ML.HPC . . . . . . . .  Mathematical Modelling
+                                                                                  Numerical Simulations
+
+                                                         Hobbies.Software  . . . 3Blue1Brown Manim Fan
+                                                         Hobbies.Collab  . . . . Open Source, ML & HPC
+
+                                                         - Contact ──────────────────────────────────────
+                                                         Email . . . . . . . . .  suvinava.basak@outlook.com
+                                                         LinkedIn  . . . . . . .  YOUR_LINKEDIN
+                                                         Website . . . . . . . .  YOUR_WEBSITE
+</pre>
 
 ---
 
