@@ -50,15 +50,15 @@
 
 <p align="center">
   <a href="mailto:suvinava.basak@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/suvinava-basak" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank">
+  <a href="https://scholar.google.com/citations?user=LdhKjt4AAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
-  <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
+  <a href="https://medium.com/@basak.suvinava2008" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
