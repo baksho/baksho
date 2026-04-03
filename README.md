@@ -24,8 +24,6 @@
   </picture>
 </a>
 
----
-
 <!-- Tech Stack badges 
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
@@ -75,8 +73,6 @@
   </a>
 </p>
 
----
-
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 
@@ -89,11 +85,9 @@
   <img src="https://komarev.com/ghpvc/?username=baksho&style=for-the-badge&color=6E40C9" alt="Profile Views" />
 </p>
 
----
-
 <!-- Footer wave
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
 -->
-*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `03-04-2026` <!-- TODO: automate this -->
+<h4 align="center">*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `03-04-2026`</h4>
