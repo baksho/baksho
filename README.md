@@ -74,7 +74,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=baksho&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=baksho&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- Profile views counter -->
