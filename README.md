@@ -21,7 +21,7 @@
 <!-- Neofetch-style block: ASCII art left, info panel right -->
 <a href="https://github.com/baksho/baksho">
   <picture>
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
+    <img alt="Baksho's GitHub Profile README" src="https://raw.githubusercontent.com/baksho/baksho/main/details.svg">
   </picture>
 </a>
 
