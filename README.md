@@ -20,7 +20,7 @@
 <!-- Neofetch-style block: ASCII art left, info panel right -->
 <a href="https://github.com/baksho/baksho">
   <picture>
-    <img alt="Baksho's GitHub Profile README" src="https://raw.githubusercontent.com/baksho/baksho/main/details.svg">
+    <img alt="Baksho's GitHub Profile README" src="https://raw.githubusercontent.com/baksho/baksho/main/light_mode_a.svg">
   </picture>
 </a>
 
