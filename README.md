@@ -5,11 +5,11 @@
   </a>
 </p>
 
-<!-- Capsule render banner -->
+<!-- Capsule render banner 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" />
 </p>
-
+-->
 ---
 
 <!-- Neofetch-style block: ASCII art left, info panel right -->
