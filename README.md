@@ -11,7 +11,6 @@
 </p>
 -->
 
-
 <!-- Capsule render banner 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" />
@@ -20,37 +19,11 @@
 ---
 
 <!-- Neofetch-style block: ASCII art left, info panel right -->
-<pre>
-                     if{~-ill:'                         baksho@earth
-               ^tcp##8$$$$$$$$$b+                       ────────────────────────────────────────────────
-             _w$$$$$%8$$$#wmwqk8p                       OS  . . . . . . . . . .  Ubuntu / Windows 11
-           'm$$$$$$$$$$$mx\}~" ^l                       Host  . . . . . . . . .  TU Braunschweig, DE
-           d$$$$$$$$$$$$$wUXf-l:^`.                     Uptime  . . . . . . . .  6+ years experience
-          U$$$$$$$$$$$$$$*OXf{}?`                       Shell . . . . . . . . .  zsh + oh-my-zsh
-          $$$$$$$$$$$$$$#OYcmb*ml",^[,                  Editor  . . . . . . . .  VS Code / Jupyter
-          $$$$$$b#$@*$$$Mmc[~jW$@$@C>)I                 
-         )%$@$$$wOb*kM$$%obLuYm#%88u]-"                 Background  . . . . . .  Eng → MBA → ML
-         )#$$$$o$@dUh&$$$$$@MbOr1]Lhh/.                 Role  . . . . . . . . .  Data Scientist / ML Eng
-    +1rcnYYO*@&$$$$$$$$$$$$$$8bJ0OYQn                   Pronouns  . . . . . . .  He / Him
- :fpW%*dm0crvccwpk$$$$$$$$$$$$$&oWWJ                    
-Z8$$$WkmLJUx(1{[frJbBMdXLB$$$$$$$*hY+?_~I;,..           Languages.ML  . . . . .  Python, Julia
-$$$$$B&ohpmQznf)|1{rUM$$M$$#B$$$@khOvx))1[?>I,^ '       Languages.Frameworks  .  PyTorch, TensorFlow
-$$$$$$$$$8MkmUUUcrUpahd$$$$$$pOmj  lII+[}[{)]|1+-?]_    Languages.Tools . . . .  NumPy, Pandas, Manim
-$$$$$$$$$$@8W#w0nxXnrYmh$$$$$B$#I|`[l j!     .,l;_!:    Languages.Real  . . . .  English, German (learning)
-                                                        
-                                                        ML.Learning . . . . . .  CNN, RNN, LSTM
-                                                        ML.Expertise  . . . . .  Regression, Classification
-                                                        ML.Domain . . . . . . . Statistics, Optimization
-                                                        ML.HPC  . . . . . . . .  Maths Modelling, Num. Sim.
-                                                        
-                                                        Hobbies . . . . . . . .  3Blue1Brown Manim Fan
-                                                        Collab  . . . . . . . .  ML, HPC, Open Source
-                                                        
-                                                        ─ Contact ──────────────────────────────────────
-                                                        Email . . . . . . . . .  suvinava.basak@outlook.com
-                                                        LinkedIn  . . . . . . .  YOUR_LINKEDIN
-                                                        Website . . . . . . . .  YOUR_WEBSITE
-</pre>
+<a href="https://github.com/baksho/baksho">
+  <picture>
+    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
+  </picture>
+</a>
 
 ---
 
