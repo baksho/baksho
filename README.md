@@ -1,14 +1,15 @@
 <!-- GIF header -->
-<p align="left">
+<p align="center">
   <img src="intro2.gif" alt="Intro GIF" width="720" />
 </p>
 
-<!-- Typing SVG header -->
+<!-- Typing SVG header 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=26&pause=1200&color=000000&center=true&vCenter=true&width=620&height=60&lines=Hi+there%2C+I'm+Baksho+%F0%9F%91%8B;Machine+Learning+Engineer;Data+Scientist+%40+TU+Braunschweig;Python+%7C+Julia+Enthusiast;Let's+build+something+cool!" alt="Typing SVG" />
   </a>
 </p>
+-->
 
 
 <!-- Capsule render banner 
