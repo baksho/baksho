@@ -103,25 +103,18 @@ $$$$$$$$$$@8W#w0nxXnrYmh$$$$$B$#I|`[l j!     .,l;_!:    Languages.Real  . . . . 
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baksho&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baksho&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=baksho&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baksho&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<!-- Profile views counter & footer wave -->
+<!-- Profile views counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=baksho&style=for-the-badge&color=6E40C9" alt="Profile Views" />
 </p>
 
+---
+
+<!-- Footer wave
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
+-->
