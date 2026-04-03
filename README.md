@@ -82,7 +82,7 @@
 
 <!-- Profile views counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=baksho&style=for-the-badge&color=6E40C9" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=baksho&style=for-the-badge&color=E2EAF6" alt="Profile Views" />
 </p>
 
 <!-- Footer wave
