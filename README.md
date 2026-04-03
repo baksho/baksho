@@ -16,7 +16,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" />
 </p>
 -->
----
 
 <!-- Neofetch-style block: ASCII art left, info panel right -->
 <a href="https://github.com/baksho/baksho">
@@ -27,7 +26,7 @@
 
 ---
 
-<!-- Tech Stack badges -->
+<!-- Tech Stack badges 
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
@@ -44,8 +43,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
-
----
+-->
 
 <!-- Social links -->
 <h3 align="center">🌐 Find Me Around the Web</h3>
