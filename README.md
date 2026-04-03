@@ -77,7 +77,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=baksho&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=baksho&theme=transparent&hide_border=true" />
 </p>
 
 <!-- Profile views counter -->
@@ -90,9 +90,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
 -->
+
 <p align="center">
   <sub><em>Last manually updated:</em> <code>03-04-2026</code></sub>
-</p>
-<p align="center">
-  <sub>*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* <code>03-04-2026</code></sub>
 </p>
