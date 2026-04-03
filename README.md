@@ -91,8 +91,8 @@
 </p>
 -->
 <p align="center">
-  <em>Last manually updated:</em> <code>03-04-2026</code>
+  <sub><em>Last manually updated:</em> <code>03-04-2026</code></sub>
 </p>
 <p align="center">
-  *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* <code>03-04-2026</code>
+  <sub>*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* <code>03-04-2026</code></sub>
 </p>
