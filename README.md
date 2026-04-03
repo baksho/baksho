@@ -90,4 +90,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
 -->
-<h4 align="center">*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `03-04-2026`</h4>
+<p align="center">
+  <em>Last manually updated:</em> <code>03-04-2026</code>
+</p>
+<p align="center">
+  *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* <code>03-04-2026</code>
+</p>
