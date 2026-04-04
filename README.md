@@ -1,6 +1,6 @@
 <!-- GIF header -->
 <p align="center">
-  <img src="intro2.gif" alt="Intro GIF" width="720" />
+  <img src="final_intro.gif" alt="Intro GIF" width="720" />
 </p>
 
 <!-- Typing SVG header 
