@@ -24,7 +24,7 @@
   </picture>
 </a>
 
-<!-- Tech Stack badges 
+<!-- Tech Stack badges -->
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
--->
 
 <!-- Social links -->
 <h3 align="center">🌐 Find Me Around the Web</h3>
