@@ -74,7 +74,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=baksho&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=baksho&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <!-- Profile views counter -->
@@ -89,5 +89,5 @@
 -->
 
 <p align="center">
-  <sub><em>Last manually updated:</em> <code>04-04-2026</code></sub>
+  <sub><em>Last manually updated:</em> <code>15-08-2026</code></sub>
 </p>
