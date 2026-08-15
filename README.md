@@ -73,8 +73,13 @@
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 
+<!--
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=baksho&theme=transparent&hide_border=true&v=2" alt="GitHub Streak Stats" />
+</p>
+-->
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=baksho&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <!-- Profile views counter -->
